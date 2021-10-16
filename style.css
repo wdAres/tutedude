@@ -1,0 +1,64 @@
+.body{
+    text-align: center;
+   background-color: rgb(255, 255, 255);
+   font-family: 'Permanent Marker', cursive;
+   
+}
+ .heading{
+    margin: 100px;
+    font-weight: bold;
+    font-size: 4rem;
+    background: #00FF00;
+    background: -webkit-linear-gradient(to left, #00FF00 0%, #00FFFF 100%);
+    background: -moz-linear-gradient(to left, #00FF00 0%, #00FFFF 100%);
+    background: linear-gradient(to left, #00FF00 0%, #00FFFF 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+ }
+
+/* HOME */
+
+.home-pic{
+    margin: 100px;
+}
+
+/* CURRICULAM */
+#curriculam{
+    background-color: black;
+}
+
+.fmbtn{
+    margin-bottom: 15px;
+}
+.curriculam-pages{
+    margin: 100px;
+}
+
+/* offers */
+.offer-cards{
+    padding: 4rem;
+}
+.card{
+    margin: 30px;
+}
+
+/* footer */
+
+#footer{
+    margin-top:50px ;
+    background-color: black;
+}
+
+.icons{
+    padding: 30px;
+   
+}
+.icon{
+    margin: 50px;
+    color: rgb(223, 12, 153);
+}
+
+.footer-p2{
+    padding: 5px;
+    margin: 10px;
+}
